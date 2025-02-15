@@ -18,8 +18,8 @@ from scipy.linalg import LinAlgError
 # ===============================
 # Configuration and Initialization
 # ===============================
-API_KEY = "kt1XXZpqmAOpZKLr7d"  # Your testnet API key
-API_SECRET = "dLQwBukEdpYqTbmowOzjlQdwXsJ8iuZM1xkd"  # Your testnet API secret
+API_KEY = ""  # Your testnet API key
+API_SECRET = ""  # Your testnet API secret
 SYMBOL = "BTCUSDT"
 INTERVAL = "15"  # 15-minute candles
 DAYS = 1         # For testing – you might want to increase this for robust analysis
